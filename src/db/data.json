@@ -22,30 +22,30 @@
     {
       "id": 3,
       "day": 2,
-      "eng": "book",
-      "kor": "책",
+      "eng": "car",
+      "kor": "자동차",
       "isDone": false
     },
     {
       "id": 4,
       "day": 2,
-      "eng": "book",
-      "kor": "책",
+      "eng": "bag",
+      "kor": "가방",
       "isDone": false
     },
     {
       "id": 5,
       "day": 3,
-      "eng": "book",
-      "kor": "책",
+      "eng": "bed",
+      "kor": "침대",
       "isDone": false
     },
     {
       "id": 6,
       "day": 3,
-      "eng": "book",
-      "kor": "책",
+      "eng": "hat",
+      "kor": "모자",
       "isDone": false
-    },
+    }
   ]
 }
