@@ -1,19 +1,19 @@
-import React from 'react';
+import { Link } from "react-router-dom";
 
 export default function Header() {
   return (
     <header className="header">
       <h1>
-        <a>Voca</a>
+        <Link to="/">Voca</Link>
       </h1>
       <nav className="menu">
-        <a href="#x" className="link">
+        <Link to="*" className="link">
           단어 추가
-        </a>
-        <a href="#x" className="link">
+        </Link>
+        <Link to="*" className="link">
           Day 추가
-        </a>
+        </Link>
       </nav>
     </header>
-  )
+  );
 }
