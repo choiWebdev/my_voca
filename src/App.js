@@ -1,9 +1,9 @@
-import './App.css';
-import Day from './component/Day';
-import DayList from './component/DayList';
-import EmptyPage from './component/EmptyPage';
-import Header from './component/Header';
-import {Routes, Route} from 'react-router-dom';
+import "./App.css";
+import Day from "./component/Day";
+import DayList from "./component/DayList";
+import EmptyPage from "./component/EmptyPage";
+import Header from "./component/Header";
+import { Routes, Route } from "react-router-dom";
 
 export default function App() {
   return (
