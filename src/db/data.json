@@ -1,47 +1,42 @@
 {
   "days": [
-    {"id": 1, "day": 1},
-    {"id": 2, "day": 2},
-    {"id": 3, "day": 3}
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    }
   ],
   "words": [
     {
-      "id": 1,
+      "id": "1",
       "day": 1,
       "eng": "book",
       "kor": "책",
       "isDone": true
     },
     {
-      "id": 2,
-      "day": 1,
-      "eng": "pencil",
-      "kor": "연필",
-      "isDone": false
-    },
-    {
-      "id": 3,
-      "day": 2,
-      "eng": "car",
-      "kor": "자동차",
-      "isDone": false
-    },
-    {
-      "id": 4,
+      "id": "4",
       "day": 2,
       "eng": "bag",
       "kor": "가방",
       "isDone": false
     },
     {
-      "id": 5,
+      "id": "5",
       "day": 3,
       "eng": "bed",
       "kor": "침대",
       "isDone": false
     },
     {
-      "id": 6,
+      "id": "6",
       "day": 3,
       "eng": "hat",
       "kor": "모자",
