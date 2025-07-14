@@ -7,10 +7,10 @@ export default function Header() {
         <Link to="/">Voca</Link>
       </h1>
       <nav className="menu">
-        <Link to="*" className="link">
+        <Link to="/create_word" className="link">
           단어 추가
         </Link>
-        <Link to="*" className="link">
+        <Link to="/create_day" className="link">
           Day 추가
         </Link>
       </nav>
